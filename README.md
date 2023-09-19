@@ -1,7 +1,9 @@
 # sub2ip.py
 Convert a list of subdomains to IP addresses, output into a .CSV
+
+
 ---
-usage: python3 sub2ip2.py -i <file_name> -o <file_output>
+usage: python3 sub2ip2.py -i file_name.txt -o list.csv
 
 Resolve subdomains to IP addresses and save results to a CSV file.
 
