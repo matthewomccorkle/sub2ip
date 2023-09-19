@@ -7,7 +7,7 @@ usage: python3 sub2ip2.py -i file_name.txt -o list.csv
 
 Resolve subdomains to IP addresses and save results to a CSV file.
 
-optional arguments:<br>
+optional arguments:</p>
   -h, --help            show this help message and exit<br>
   -i INPUT_FILE, --input_file INPUT_FILE<br>
                         Path to the input file containing subdomains.<br>
