@@ -5,4 +5,4 @@ If the subdomain does not resolve, then the IP field will state "cannot be resol
 
 
 ---
-usage: python3 sub2ip2.py -i file_name.txt -o list.csv
+usage: python3 sub2ip2.py -i file_name.txt -s scope.txt 
