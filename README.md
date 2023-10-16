@@ -1,4 +1,4 @@
-# sub2ip.py
+# sub2ip.py - Written by ChatGPT
 Convert a list of subdomains to IP addresses, output into a .CSV 
 
 If the subdomain does not resolve, then the IP field will state "cannot be resolved, may be stale data".
